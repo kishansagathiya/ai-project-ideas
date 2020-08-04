@@ -5,3 +5,6 @@ List of Artificial Project Ideas to do for masterinai.com
 - Document Analysis for KYC 
   - Input: documents such as Passport, Aadhaar Card, PAN Card etc
   - Output: structured representation (json) of information in it
+- Grammatical checking software
+- Check if user is a bot
+- CCTV Camera Analysis
