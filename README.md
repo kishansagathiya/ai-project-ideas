@@ -7,4 +7,4 @@ List of Artificial Project Ideas to do for masterinai.com
   - Output: structured representation (json) of information in it
 - Grammatical checking software
 - Check if user is a bot
-- CCTV Camera Analysis
+- CCTV Camera Footage Analysis
