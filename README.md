@@ -8,3 +8,4 @@ List of Artificial Project Ideas to do for masterinai.com
 - Grammatical checking software
 - Check if user is a bot
 - CCTV Camera Footage Analysis
+- Meditation and Gym (AI) Instructor
