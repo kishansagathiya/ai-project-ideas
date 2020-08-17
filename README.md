@@ -9,4 +9,4 @@ List of Artificial Project Ideas to do for masterinai.com
 - Check if user is a bot
 - CCTV Camera Footage Analysis
 - Meditation and Gym (AI) Instructor
-- AI based doctor. Most of the work done by a general physician is something that could be automated. 
+- AI based doctor. Most of the work done by a general physician is something that could be automated. During Covid-19, a lot of doctors have started their service online. If they can do it online, it can be automated.
