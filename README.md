@@ -9,3 +9,4 @@ List of Artificial Project Ideas to do for masterinai.com
 - Check if user is a bot
 - CCTV Camera Footage Analysis
 - Meditation and Gym (AI) Instructor
+- AI based doctor. Most of the work done by a general physician is something that could be automated. 
