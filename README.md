@@ -11,3 +11,4 @@ List of Artificial Project Ideas to do for masterinai.com
 - Meditation and Gym (AI) Instructor
 - AI based doctor. Most of the work done by a general physician is something that could be automated. During Covid-19, a lot of doctors have started their service online. If they can do it online, it can be automated.
 - face swapping in videos. could be fun.
+- After seeing lots of say cat pictures, can i ask machine to produce its own picture of a cat?
