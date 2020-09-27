@@ -13,3 +13,4 @@ List of Artificial Project Ideas to do for masterinai.com
 - face swapping in videos. could be fun.
 - After seeing lots of say cat pictures, can i ask machine to produce its own picture of a cat?
 - Apparently sperm count is done manually. Some guy would look the the microscope, count the number of sperm (by hand) and multiply it with hundred. This also seems like something that AI can do.
+- Various speech-based apps for older generation that struggles with gadgets. (i.e., help your grandma who doesn't understand english join a meeting room)
